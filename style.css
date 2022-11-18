@@ -1,0 +1,91 @@
+#B1{
+    border: none;
+    height: 25px;
+}
+#B1:hover{
+    background-color:white;
+    border: none;
+}
+#B2{
+ background-color: blueviolet;
+ color: #f2f2f2;
+ border: none;
+ height: 23px;
+ border-radius: 2px;
+}
+#B2:hover{
+    background-color:rgb(122, 59, 186);
+    border: none;
+}
+#B3{
+    background-color:cornflowerblue;
+    color: #f2f2f2;
+    border: none;
+    height: 23px;
+    border-radius: 2px;
+   }
+   #B3:hover{
+    background-color:rgb(55, 109, 210);
+    border: none;
+}
+   #B4{
+    background-color:red;
+    color: #f2f2f2;
+    border: none;
+    height: 23px;
+    border-radius: 2px;
+   }
+   #B4:hover{
+    background-color:rgb(205, 42, 42);
+    border: none;
+}
+   
+   #B5{
+    /* background-color:cornflowerblue; */
+    color:black;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    height: 40px;
+    width: 70px;
+    border-radius: 5px;
+   }
+   #B5:hover{
+    background-color:rgb(222, 222, 222);
+    border: none;
+}
+   #B6{
+    color:black;
+    border: none;
+    font-weight: bold;
+    height: 20px;
+    border-radius: 2px;
+   }
+   #B6:hover{
+    background-color:rgb(222, 222, 222);
+    border: none;
+}
+   #B7{
+    /* background-color:cornflowerblue; */
+    color: black;
+    border: none;
+    font-weight: bold;
+    width: 40px;
+    height: 30px;
+    border-radius: 45%;
+   }
+   #B7:hover{
+    background-color:rgb(238, 244, 214);
+    border: none;
+}
+   #B8{
+    background-color:blue;
+    color: white;
+    border: none;
+    height: 25px;
+    border-radius: 2px;
+   }
+   #B8:hover{
+    background-color:rgb(113, 70, 194);
+    border: none;
+}
